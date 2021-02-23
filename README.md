@@ -1,2 +1,2 @@
-# test.github.io
+# MihaplAyMF.github.io
 Мой первый хостинг
