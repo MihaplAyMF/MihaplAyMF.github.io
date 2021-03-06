@@ -1,0 +1,8 @@
+/node_modules/*
+/src/*
+!/src/*
+/src/less
+gulpfile.js
+package.json
+package-lock.json
+gulp_start.bat

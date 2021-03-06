@@ -1,0 +1,12 @@
+.block{
+	height: 400px; 
+	width: 300px;
+	padding: 20px 30px;
+	border: 2px solid silver;
+	border-radius: 10px;
+	position: absolute;
+    top: 50%;
+    left: 50%;
+  margin-top: -210px;
+  margin-left: -165px;
+}

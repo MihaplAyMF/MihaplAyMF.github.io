@@ -1,0 +1,22 @@
+body{
+	font-size: 22px;
+	padding: 100px;
+}
+a{
+	text-decoration: none;
+}
+.text{
+	background-color: silver;
+}
+.b{
+	font-weight: 900;
+}
+.i{
+	font-style: italic;
+}
+.s{
+	text-decoration:  line-through;
+}
+.u{
+	text-decoration: underline;
+}
