@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Lato&family=Lobster&family=Open+Sans:ital,wght@1,300&display=swap');
+
+.Open_Sans{
+	font-family: 'Open Sans', sans-serif;
+}
+.Bebas_Neue{
+	font-family: 'Bebas Neue', sans-serif;
+}
+.Lato{
+	font-family: 'Lato', sans-serif;
+}
+.Lobster{
+	font-family: 'Lobster', sans-serif;
+}
+.text-box{
+	padding-top: 2rem;
+}
+.result {
+	margin-bottom: 0;
+	margin-top: 3rem;
+}
+.fonts {
+	font-size: 2rem;
+	text-align: center;
+	padding: 2rem;
+}
+small {
+	font-size: 1.3rem;
+}
