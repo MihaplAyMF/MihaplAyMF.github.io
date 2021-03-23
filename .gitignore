@@ -1,7 +1,5 @@
 /node_modules/*
-/src/*
-!/src/*
-/src/less
+less
 gulpfile.js
 package.json
 package-lock.json
