@@ -227,7 +227,7 @@ a:focus {
   }
 
   .main-subtitle {
-    font-size: 1.6em;
+    font-size: 1.7em;
   }
 
   .main span {
@@ -275,7 +275,7 @@ a:focus {
 
   .header-btn {
     padding: 0.3em 0.8em;
-    font-size: 1.1em;
+    font-size: 1.2em;
   }
 
   .logo {
@@ -294,5 +294,52 @@ a:focus {
 @media (max-width: 576px) {
   .main-title h1 {
     font-size: 1.8em;
+  }
+
+  .main-form-header {
+    font-size: 1.1em;
+  }
+
+  .main-form {
+    position: relative;
+    background-color: #fff;
+    text-align: center;
+    padding: 1.5rem;
+  }
+}
+
+@media (max-width: 400px) {
+  .phone_link {
+    font-size: 1em;
+  }
+
+  .header-btn {
+    padding: 0.2em 0.5em;
+    font-size: 1em;
+  }
+
+  .main-title h1 {
+    font-size: 1.3em;
+  }
+
+  .main span {
+    padding: 1rem 1em;
+    font-size: 1.4em;
+  }
+
+  .main-subtitle {
+    font-size: 1.2em;
+  }
+
+  .main strong {
+    font-size: 1.3em;
+  }
+
+  .main-form-header {
+    font-size: 0.8em;
+  }
+
+  .main-form {
+    padding: 1rem;
   }
 }
